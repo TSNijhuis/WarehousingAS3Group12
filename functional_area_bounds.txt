@@ -1,0 +1,4 @@
+Functional Area	Lower bound (m²)	Upper bound (m²)
+Cross-docking	0	15,000
+Reserve	35,000	75,000
+Forward	35,000	75,000

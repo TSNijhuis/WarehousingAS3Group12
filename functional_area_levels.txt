@@ -1,0 +1,4 @@
+Functional Area	#Levels
+Cross-docking	1
+Reserve	1
+Forward	1

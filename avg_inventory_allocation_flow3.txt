@@ -1,0 +1,7 @@
+Product	Reserve Allocation	Forward Allocation
+Product 1	0.0	64.55
+Product 2	0.0	70.71
+Product 3	26.35	105.41
+Product 4	0.0	40.82
+Product 5	0.0	23.57
+Product 6	533.85	0.0
